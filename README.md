@@ -1,2 +1,2 @@
 <h1>About</h1>
-<p>The 1º HTML & CSS project of Rocketseat Explorer.</p>
+<p>This is the first HTML & CSS project made at Explorer of Rocketseat.</p>
