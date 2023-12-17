@@ -52,3 +52,9 @@ p,
 
   border: 1px solid #eceff2;
 }
+
+#balls {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
